@@ -1,11 +1,46 @@
 body {
   padding: 1rem;
+  width:80%;
+  margin: 0 auto;
 }
 
 output {
   display: block;
-  min-height: 1rem;
+  min-height: 2rem;
   padding: 0.5rem;
   border: 1px solid black;
   border-radius: 3px;
+  width: 50%;
+}
+
+form{
+  margin-left: 3%;
+}
+
+main{
+  margin-left: 3%;
+}
+
+h1{
+  margin-left: 3%;
+}
+
+section{
+  margin-top: 2%;
+}
+
+#number{
+  margin-right: 10px;
+}
+
+#sortOne{
+  margin: 0.3%;
+}
+
+#sortAll{
+  margin: 0.3%;
+}
+
+#clearNumberBank{
+  margin: 0.3%;
 }
